@@ -1,4 +1,4 @@
 # KUO
-A team of developers making video games and services.
+A team of indie developers making video games and services.
 
-Primarily making stuff for the s&box platform.
+Primarily making stuff using [S&Box](https://sbox.game/)
