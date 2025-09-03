@@ -1,1 +1,1 @@
-A team of indie developers making video games.
+Indie development team making video games.
